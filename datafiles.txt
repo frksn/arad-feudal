@@ -1,25 +1,25 @@
-202001.csv
-202002.csv
-202003.csv
-202004.csv
-202005.csv
-202006.csv
-202007.csv
-202008.csv
-202009.csv
-202010.csv
-202011.csv
-202012.csv
-202101.csv
-202102.csv
-202103.csv
-202104.csv
-202105.csv
-202106.csv
-202107.csv
-202108.csv
-202109.csv
-202110.csv
-202111.csv
-202112.csv
-202601.csv
+202001.csv, https://arad-feudal.ro
+202002.csv, https://arad-feudal.ro
+202003.csv, https://arad-feudal.ro
+202004.csv, https://arad-feudal.ro
+202005.csv, https://arad-feudal.ro
+202006.csv, https://arad-feudal.ro
+202007.csv, https://arad-feudal.ro
+202008.csv, https://arad-feudal.ro
+202009.csv, https://arad-feudal.ro
+202010.csv, https://arad-feudal.ro
+202011.csv, https://arad-feudal.ro
+202012.csv, https://arad-feudal.ro
+202101.csv, https://arad-feudal.ro
+202102.csv, https://arad-feudal.ro
+202103.csv, https://arad-feudal.ro
+202104.csv, https://arad-feudal.ro
+202105.csv, https://arad-feudal.ro
+202106.csv, https://arad-feudal.ro
+202107.csv, https://arad-feudal.ro
+202108.csv, https://arad-feudal.ro
+202109.csv, https://arad-feudal.ro
+202110.csv, https://arad-feudal.ro
+202111.csv, https://arad-feudal.ro
+202112.csv, https://arad-feudal.ro
+202601.csv, https://arad-feudal.ro
